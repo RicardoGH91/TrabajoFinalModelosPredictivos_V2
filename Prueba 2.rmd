@@ -4,7 +4,7 @@ output: github_document
 ---
 
 
-## INTRODUCCIóN
+## INTRODUCCIóN 2
 
 Como sabemos la oferta monetaria es la cantidad de dinero circulante en una economia en un periodo determinado. La importancia de estudiar este indicador radica en su impacto en la economía de México, y por consiguiente en la economia personal. como sabemos una de las consecuencias de la oferta monetaria es el impacto que se refleja directamente en las tasas de interes. Si hay un exceso de dinero en el mercado, las tasas de interes pueden bajar, lo que impulsa el gasto y la inversión. La escasez de dinero puede llevar a incremento en las tasas de interes lo que podría desalentar el gasto e impulsar el ahorro e invertir en instrumentos financieros por rendimientos altos.
 
