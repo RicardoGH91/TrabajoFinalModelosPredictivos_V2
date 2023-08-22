@@ -18,7 +18,7 @@ Por otra parte seria interesante analizar las exportaciones, ya que este
 indicador impacta directamente en la demanda de la moneda local, si un
 pais aumenta las exportaciones, es probable que la demanda de su moneda
 tambien aumente, lo que puede llevar a un fortalecimiento de la moneda
-local en los mercados de divisas. Un tipo de cambio mÃ¡s fuerte puede
+local en los mercados de divisas. Un tipo de cambio más fuerte puede
 influir en la oferta monetaria al afectar la cantidad de moneda local en
 circulación en el país.
 
@@ -29,7 +29,7 @@ Modelo de tasa de crecimiento relativa compuesta.
 
 ## Modelo de regresion lineal de la oferta monetaria
 
-En el siguiente grÃ¡fico podemos observar el crecimiento de la oferta
+En el siguiente gráfico podemos observar el crecimiento de la oferta
 monetaria con respecto del tiempo.
 
 ``` r
@@ -85,7 +85,7 @@ razon de 1.4%
 
 ## Modelo de regresion lineal Exportaciones
 
-Se realiza grÃ¡fica de las exportaciones a traves del tiempo.
+Se realiza gráfica de las exportaciones a traves del tiempo.
 
 ``` r
 plot(tsbase_Exp[,"E_Totales"],
