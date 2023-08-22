@@ -1,17 +1,17 @@
 Prueba 2
 ================
 
-## INTRODUCCIÃ³N
+## INTRODUCCIóN 2
 
 Como sabemos la oferta monetaria es la cantidad de dinero circulante en
 una economia en un periodo determinado. La importancia de estudiar este
-indicador radica en su impacto en la economÃ­a de MÃ©xico, y por
+indicador radica en su impacto en la economía de México, y por
 consiguiente en la economia personal. como sabemos una de las
 consecuencias de la oferta monetaria es el impacto que se refleja
 directamente en las tasas de interes. Si hay un exceso de dinero en el
 mercado, las tasas de interes pueden bajar, lo que impulsa el gasto y la
-inversiÃ³n. La escasez de dinero puede llevar a incremento en las tasas
-de interes lo que podrÃ­a desalentar el gasto e impulsar el ahorro e
+inversión. La escasez de dinero puede llevar a incremento en las tasas
+de interes lo que podría desalentar el gasto e impulsar el ahorro e
 invertir en instrumentos financieros por rendimientos altos.
 
 Por otra parte seria interesante analizar las exportaciones, ya que este
@@ -20,7 +20,7 @@ pais aumenta las exportaciones, es probable que la demanda de su moneda
 tambien aumente, lo que puede llevar a un fortalecimiento de la moneda
 local en los mercados de divisas. Un tipo de cambio mÃ¡s fuerte puede
 influir en la oferta monetaria al afectar la cantidad de moneda local en
-circulaciÃ³n en el paÃ­s.
+circulación en el país.
 
 En el siguiente documento se analizara el crecimiento de las tasas
 oferta monetaria (1989-2023) y las exportaciones(1993-2023) en Mexico,
